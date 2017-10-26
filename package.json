@@ -1,0 +1,26 @@
+{
+  "name": "6_js_zadanie_8.3",
+  "version": "1.0.0",
+  "description": "My learning projects from Kodilla Bootcamp: Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MirekKopec/js-zadanie_8.3.git"
+  },
+  "author": "MK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MirekKopec/js-zadanie_8.3/issues"
+  },
+  "homepage": "https://github.com/MirekKopec/js-zadanie_8.3#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
